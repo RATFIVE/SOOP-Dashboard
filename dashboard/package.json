@@ -1,5 +1,5 @@
 {
-  "name": "bilder-galerie",
+  "name": "dashboard",
   "version": "1.0.0",
   "description": "Eine einfache Bildergalerie-Webanwendung.",
   "main": "src/index.html",

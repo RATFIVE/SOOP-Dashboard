@@ -18,7 +18,7 @@ Dieses Projekt ist eine einfache Bildergalerie, die es ermöglicht, Bilder in ei
    ```
 2. Navigiere in das Projektverzeichnis:
    ```
-   cd bilder-galerie
+   cd dashboard
    ```
 3. Installiere die Abhängigkeiten:
    ```

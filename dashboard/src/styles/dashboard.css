@@ -10,6 +10,35 @@ body {
     padding: 0;
     background: var(--soop-blue);
     color: #fff;
+    padding-top: 90px;
+}
+
+#branding-header {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    position: fixed;
+    top: 20px;
+    left: 0;
+    width: 100vw;
+    z-index: 2003;
+    background: none;
+    pointer-events: none;
+}
+
+#branding-header h1 {
+    display: inline-block;
+    background: rgba(255,255,255,0.95);
+    color: var(--soop-blue);
+    font-size: 1.4rem;
+    font-weight: 800;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 6px 22px 5px 22px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    box-shadow: 0 4px 24px 0 var(--soop-green);
+    pointer-events: auto;
 }
 
 #map {
